@@ -3,3 +3,4 @@ Creating a new branch.
 It's happy and very simple.
 test1.
 test2.
+test
